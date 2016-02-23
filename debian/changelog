@@ -1,0 +1,5 @@
+redmine-plugin-multiprojects-issue (0.0.1+git20160220-1) unstable; urgency=low
+
+  * Initial release (closes: #).
+
+ -- Klee Dienes <klee@debian.org>  Mon, 22 Feb 2016 19:46:45 -0500

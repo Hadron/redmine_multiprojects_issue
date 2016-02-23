@@ -1,0 +1,7 @@
+*rb /usr/share/redmine/plugins/redmine_multiprojects_issue
+app /usr/share/redmine/plugins/redmine_multiprojects_issue
+db /usr/share/redmine/plugins/redmine_multiprojects_issue
+spec /usr/share/redmine/plugins/redmine_multiprojects_issue
+lib /usr/share/redmine/plugins/redmine_multiprojects_issue
+config /usr/share/redmine/plugins/redmine_multiprojects_issue
+assets/* /usr/share/redmine/public/plugin_assets/redmine_multiprojects_issue

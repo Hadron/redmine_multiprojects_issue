@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: redmine_multiprojects_issue
+Source: https://github.com/nanego/redmine_multiprojects_issue
+
+Files: *
+Copyright: UNKNOWN
+License: UNKNOWN
